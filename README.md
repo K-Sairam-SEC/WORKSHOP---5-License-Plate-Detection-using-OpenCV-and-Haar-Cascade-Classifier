@@ -1,5 +1,7 @@
 # WORKSHOP---5-License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier
-
+### Developed By
+### Name: Sairam K
+### Reg No: 212225240132
 ## Aim
 
 To detect a license plate in an image using a Haar Cascade classifier and blur the detected license plate instead of simply drawing a rectangle around it.
